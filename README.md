@@ -121,6 +121,3 @@ while True:
   ?>
 </body>
 </html>
-```
-
-This material provides a basic introduction to HTTP in the context of cybersecurity. It includes a theoretical overview, practical examples, and educational resources. You can use the videos and code examples to illustrate the concepts and demonstrate real-world scenarios.
